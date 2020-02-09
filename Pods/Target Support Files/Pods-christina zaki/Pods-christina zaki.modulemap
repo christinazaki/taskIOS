@@ -1,0 +1,6 @@
+framework module Pods_christina_zaki {
+  umbrella header "Pods-christina zaki-umbrella.h"
+
+  export *
+  module * { export * }
+}
